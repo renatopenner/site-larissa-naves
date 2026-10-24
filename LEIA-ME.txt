@@ -1,0 +1,34 @@
+CÓPIA LOCAL DO SITE larissanavesadvocacia.com.br
+Gerada em 23/10/2026 a partir do site publicado no Wix.
+
+O QUE É
+Snapshot estático (HTML + CSS + imagens) das 46 páginas do site,
+com os assets do CDN baixados (275 arquivos) e 33 imagens
+originais em alta em assets/hires/.
+
+COMO ABRIR
+Abra _INDICE.html no navegador (duplo clique). Tudo funciona sem internet.
+As páginas ficam na raiz desta pasta (*.html).
+
+O QUE NÃO FUNCIONA AQUI (é do Wix, não existe fora dele)
+- Formulário de contato / intake-form (envio)
+- Carrinho e checkout da loja (9 produtos)
+- Agenda do Wix Bookings (6 serviços)
+- Busca do site
+- Publicação de posts do blog
+- O editor do Wix (nada disso é editável sem mexer no HTML)
+
+OBSERVAÇÕES DA AUDITORIA
+- "Especialista em Direito de Família" na home: vedado pelo Provimento 205/2021
+  do CFOAB sem título registrado. Trocar por "Advogada de Família e Sucessões".
+- /blank, /blank-1..4 são as páginas legais do rodapé e estão com os MODELOS do Wix
+  sem preencher (/blank-1 é a Declaração de acessibilidade inteira em inglês, com
+  "[enter organization / business name]"). Não há política de privacidade válida hoje.
+- /seguroresidencial e /planodesaude têm o texto de OUTRO escritório: citam
+  "A Mota Naves Advocacia". Fora do escopo dela (Família e Sucessões).
+- /product-page/*, /category/*, /event-details/*, /event-list, /book-online e /search
+  são conteúdo de demonstração do template do Wix.
+- Produtos da loja com título padrão "Página de produto".
+- Blog com 1 post publicado.
+- Domínio: registro no registro.br; DNS em ns6/ns7.wixdns.net; sem registro MX
+  (não há e-mail no domínio — contato é por Gmail).

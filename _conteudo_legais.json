@@ -1,0 +1,1279 @@
+{
+ "blank.html": {
+  "titulo": "🐴 Política de Privacidade | Larissa Naves Advocacia",
+  "desc": "",
+  "blocos": [
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "top of page"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Início"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Inventário"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Divórcio"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Mais"
+   },
+   {
+    "tag": "h1",
+    "fs": 106,
+    "t": "Política de Privacidade"
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Isenção de responsabilidade jurídica"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Os esclarecimentos e informações prestados nesta página têm apenas a finalidade geral e pouco específica de como redigir seus próprios documentos de Política de Privacidade. Você não deve se fiar neste artigo como orientação jurídica ou como recomendações sobre o que você deve efetivamente fazer, pois não podemos saber de antemão quais são as políticas de privacidade específicas que você deseja estipular entre a sua empresa e seus clientes e visitantes. Recomendamos que você busque orientação jurídica se precisar de ajuda para entender e criar sua própria Política de Privacidade."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Política de Privacidade - noções fundamentais"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Dito isso, uma política de privacidade é uma declaração que comunica algumas ou todas as formas como um site coleta, usa, divulga, processa e administra os dados de seus visitantes e clientes. Geralmente inclui também uma declaração relativa ao compromisso do site em proteger a privacidade dos seus visitantes ou clientes, e um esclarecimento sobre os diferentes mecanismos que o site implementa a fim de proteger a privacidade."
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Diferentes jurisdições possuem diferentes obrigações jurídicas quanto ao que deve ser incluído em uma Política de Privacidade. Você é responsável por cumprir a legislação relevante para suas atividades e localização."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "O que incluir na Política de Privacidade"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Em termos gerais, a Política de Privacidade costuma regular as seguintes questões: os tipos de informação que o site está coletando e a maneira em que coleta os dados; um esclarecimento de por que o site está coletando esses tipos de informação; quais são as práticas do site quanto a compartilhamento das informações com terceiros; modos em que seus visitantes e clientes podem exercer seus direitos de acordo com a legislação de privacidade relevante; as práticas específicas quanto a coleta de dados de menores; e muito mais."
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Para saber mais a respeito, confira o nosso artigo."
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "artigo"
+   },
+   {
+    "tag": "p",
+    "fs": 25,
+    "t": "Larissa Naves Advocacia"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Larissa Naves"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Advocacia"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "(91) 98635-9017"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "adv.larissanaves@gmail.com"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "https://larissanavesadvocacia.blogspot.com"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Declaração de acessibilidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Termos e Condições"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Reembolso"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Envio"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "© 2026 by Larissa Naves Advocacia. Todos os direitos reservados."
+   },
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "bottom of page"
+   }
+  ]
+ },
+ "blank-1.html": {
+  "titulo": "🐴 Declaração de acessibilidade | Larissa Naves Advocacia",
+  "desc": "",
+  "blocos": [
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "top of page"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Início"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Inventário"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Divórcio"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Mais"
+   },
+   {
+    "tag": "p",
+    "fs": 19,
+    "t": "The purpose of the following template is to assist you in writing your accessibility statement. Please note that you are responsible for ensuring that your site's statement meets the requirements of the local law in your area or region. *Note: This page currently has two sections. Once you complete editing the Accessibility Statement below, you need to delete this section. To learn more about this, check out our article “Accessibility: Adding an Accessibility Statement to Your Site”."
+   },
+   {
+    "tag": "span",
+    "fs": 19,
+    "t": "*Note: This page currently has two sections. Once you complete editing the Accessibility Statement below, you need to delete this section."
+   },
+   {
+    "tag": "span",
+    "fs": 19,
+    "t": "“Accessibility: Adding an Accessibility Statement to Your Site”."
+   },
+   {
+    "tag": "h1",
+    "fs": 106,
+    "t": "Accessibility Statement"
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[enter relevant date]."
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[enter organization / business name]"
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[enter site name and address]"
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "What web accessibility is"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "An accessible site allows visitors with disabilities to browse the site with the same or a similar level of ease and enjoyment as other visitors. This can be achieved with the capabilities of the system on which the site is operating, and through assistive technologies."
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Accessibility adjustments on this site"
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[2.0 / 2.1 / 2.2 - select relevant option]"
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[A / AA / AAA - select relevant option]."
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[remove irrelevant information]:"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Used the Accessibility Wizard to find and fix potential accessibility issues"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Set the language of the site"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Set the content order of the site’s pages"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Defined clear heading structures on all of the site’s pages"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Added alternative text to images"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Implemented color combinations that meet the required color contrast"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Reduced the use of motion on the site"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "Ensured all videos, audio, and files on the site are accessible"
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Declaration of partial compliance with the standard due to third-party content [only add if relevant]"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "The accessibility of certain pages on the site depend on contents that do not belong to the organization, and instead belong to [enter relevant third-party name]. The following pages are affected by this: [list the URLs of the pages]. We therefore declare partial compliance with the standard for these pages."
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[enter relevant third-party name]"
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "[list the URLs of the pages]"
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Accessibility arrangements in the organization [only add if relevant]"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "[Enter a description of the accessibility arrangements in the physical offices / branches of your site's organization or business. The description can include all current accessibility arrangements - starting from the beginning of the service (e.g., the parking lot and / or public transportation stations) to the end (such as the service desk, restaurant table, classroom etc.). It is also required to specify any additional accessibility arrangements, such as disabled services and their location, and accessibility accessories (e.g. in audio inductions and elevators) available for use]"
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Requests, issues, and suggestions"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "If you find an accessibility issue on the site, or if you require further assistance, you are welcome to contact us through the organization's accessibility coordinator:"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "[Name of the accessibility coordinator]"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "[Telephone number of the accessibility coordinator]"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "[Email address of the accessibility coordinator]"
+   },
+   {
+    "tag": "li",
+    "fs": 23,
+    "t": "[Enter any additional contact details if relevant / available]"
+   },
+   {
+    "tag": "p",
+    "fs": 25,
+    "t": "Larissa Naves Advocacia"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Larissa Naves"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Advocacia"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "(91) 98635-9017"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "adv.larissanaves@gmail.com"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "https://larissanavesadvocacia.blogspot.com"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Privacidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Declaração de acessibilidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Termos e Condições"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Reembolso"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Envio"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "© 2026 by Larissa Naves Advocacia. Todos os direitos reservados."
+   },
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "bottom of page"
+   }
+  ]
+ },
+ "blank-2.html": {
+  "titulo": "🐴 Termos e Condições | Larissa Naves Advocacia",
+  "desc": "",
+  "blocos": [
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "top of page"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Início"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Inventário"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Divórcio"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Mais"
+   },
+   {
+    "tag": "h1",
+    "fs": 106,
+    "t": "Termos e Condições"
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Isenção de responsabilidade jurídica"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Os esclarecimentos e informações prestados nesta página têm apenas a finalidade geral e pouco específica de como redigir seus próprios documentos de Termos e Condições. Você não deve se fiar neste artigo como orientação jurídica ou como recomendações sobre o que você deve efetivamente fazer, pois não podemos saber de antemão quais são os termos específicos que você deseja estipular entre a sua empresa e seus clientes e visitantes. Recomendamos que você busque orientação jurídica se precisar de ajuda para entender e criar seus próprios Termos e Condições."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Termos e Condições - noções fundamentais"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Dito isso, Termos e Condições (“T&C”) são um conjunto de termos juridicamente vinculantes definidos por você, na qualidade de proprietário deste site. Os T&C estabelecem o marco jurídico que rege as atividades dos visitantes do site, ou seus clientes, durante a sua visita ou interação com este site. A intenção dos T&C é estabelecer a relação jurídica entre os visitantes do site e você, o proprietário do site."
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "OS T&C devem ser estabelecidos de acordo com as necessidades específicas e a natureza de cada site. Por exemplo, um site que oferece produtos a clientes envolvendo transações de comércio eletrônico precisa ter T&C que sejam diferentes dos T&C de um site que oferece somente informações (como um blog, uma página inicial de encaminhamento a outras e assim por diante)."
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "T&C dão a você, como proprietário do site, a possibilidade de se proteger contra possíveis exposições jurídicas. Porém, isso pode diferir de jurisdição para jurisdição, então procure orientação jurídica local se pretender se proteger de exposição jurídica."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "O que incluir no documento de T&C"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Em termos gerais, os T&C costumam regular as seguintes questões: quem pode usar o site; as formas de pagamento possíveis; uma declaração de que o proprietário do site pode alterar as suas ofertas no futuro; os tipos de garantia que o proprietário do site dá para os seus clientes; uma referência a questões de propriedade intelectual ou copyright, quando relevante; o direito do proprietário do site de suspender ou cancelar a conta de um membro; e muito mais."
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Para saber mais a respeito, confira o nosso artigo."
+   },
+   {
+    "tag": "span",
+    "fs": 23,
+    "t": "artigo"
+   },
+   {
+    "tag": "p",
+    "fs": 25,
+    "t": "Larissa Naves Advocacia"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Larissa Naves"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Advocacia"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "(91) 98635-9017"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "adv.larissanaves@gmail.com"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "https://larissanavesadvocacia.blogspot.com"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Privacidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Declaração de acessibilidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Reembolso"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Envio"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "© 2026 by Larissa Naves Advocacia. Todos os direitos reservados."
+   },
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "bottom of page"
+   }
+  ]
+ },
+ "blank-3.html": {
+  "titulo": "🐴 Política de Reembolso | Larissa Naves Advocacia",
+  "desc": "",
+  "blocos": [
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "top of page"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Início"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Inventário"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Divórcio"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Mais"
+   },
+   {
+    "tag": "h1",
+    "fs": 106,
+    "t": "Política de Reembolso"
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Isenção de responsabilidade jurídica"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Os esclarecimentos e informações prestados nesta página têm apenas a finalidade geral e pouco específica de como redigir seus próprios documentos de Política de Reembolso. Você não deve se fiar neste artigo como orientação jurídica ou como recomendações sobre o que você deve efetivamente fazer, pois não podemos saber de antemão quais são as políticas de reembolso específicas que você deseja estipular entre a sua empresa e seus clientes e visitantes. Recomendamos que você busque orientação jurídica se precisar de ajuda para entender e criar sua própria Política de Reembolso."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Política de Reembolso - noções fundamentais"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Dito isso, uma Política de Reembolso é um documento juridicamente vinculante dirigido a estipular as relações jurídicas entre você e seus clientes acerca de se e como você lhes pagará reembolsos. As empresas que vendem produtos online às vezes são obrigadas (dependendo das leis e normas locais) a apresentar sua política de devolução de produtos e política de reembolso. Em algumas jurisdições, isso é necessário para cumprir as leis de proteção ao consumidor. Isso também pode ajudar você a evitar demandas judiciais de clientes que não estão satisfeitos com os produtos que adquiriram."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "O que incluir na Política de Reembolso"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Em termos gerais, a Política de Reembolso costuma regular as seguintes questões: o prazo para pedir um reembolso; se o reembolso será total ou parcial; sob quais condições o cliente será reembolsado; e muito mais."
+   },
+   {
+    "tag": "p",
+    "fs": 25,
+    "t": "Larissa Naves Advocacia"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Larissa Naves"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Advocacia"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "(91) 98635-9017"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "adv.larissanaves@gmail.com"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "https://larissanavesadvocacia.blogspot.com"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Privacidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Declaração de acessibilidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Termos e Condições"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Envio"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "© 2026 by Larissa Naves Advocacia. Todos os direitos reservados."
+   },
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "bottom of page"
+   }
+  ]
+ },
+ "blank-4.html": {
+  "titulo": "🐴 Política de Envio | Larissa Naves Advocacia",
+  "desc": "",
+  "blocos": [
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "top of page"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Início"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Inventário"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Divórcio"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Mais"
+   },
+   {
+    "tag": "h1",
+    "fs": 106,
+    "t": "Política de Envio"
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Isenção de responsabilidade jurídica"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Os esclarecimentos e informações prestados nesta página têm apenas a finalidade geral e pouco específica de como redigir seus próprios documentos de Política de Envio. Você não deve se fiar neste artigo como orientação jurídica ou como recomendações sobre o que você deve efetivamente fazer, pois não podemos saber de antemão quais são as políticas de envio específicas que você deseja estipular entre a sua empresa e seus clientes e visitantes. Recomendamos que você busque orientação jurídica se precisar de ajuda para entender e criar sua própria Política de Envio."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "Política de Envio - noções fundamentais"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Dito isso, uma Política de Envio é um documento juridicamente vinculante dirigido a estipular as relações jurídicas entre você e seus clientes. É o marco jurídico para apresentar suas obrigações perante seus clientes, mas também para esclarecer diferentes situações que podem se dar e o que acontecerá em cada um desses casos."
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Uma Política de Envio é uma boa prática e ajuda os dois lados: o seu e o dos seus clientes. Seus clientes podem se beneficiar por serem informados sobre o que podem esperar do seu serviço. Você pode se beneficiar porque as pessoas podem estar mais propensas a comprar se você tiver uma Política de Envio clara, uma vez que não haverá dúvidas sobre os prazos ou processos de envio."
+   },
+   {
+    "tag": "h2",
+    "fs": 55,
+    "t": "O que incluir na Política de Envio"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Em termos gerais, a Política de Envio costuma regular as seguintes questões: o prazo de processamento dos pedidos; os custos de frete; diferentes soluções de envio doméstico e internacional; possíveis interrupções de serviços; e muito mais."
+   },
+   {
+    "tag": "p",
+    "fs": 25,
+    "t": "Larissa Naves Advocacia"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Larissa Naves"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Advocacia"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "(91) 98635-9017"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "adv.larissanaves@gmail.com"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "https://larissanavesadvocacia.blogspot.com"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Privacidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Declaração de acessibilidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Termos e Condições"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Reembolso"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "© 2026 by Larissa Naves Advocacia. Todos os direitos reservados."
+   },
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "bottom of page"
+   }
+  ]
+ },
+ "seguroresidencial.html": {
+  "titulo": "🐴 Seguradora Negou Indenização? Entenda Seus Direitos",
+  "desc": "Problemas com seguro? Saiba como agir diante de negativas e receba orientação jurídica clara e segura. Fale agora.",
+  "blocos": [
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "top of page"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Início"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Inventário"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Divórcio"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Guarda de Filhos"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Planejamento Patrimonial"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Pensão Alimentícia"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Regulamentação de Visitas"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Reconhecimento de União Estável"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Investigação de Paternidade"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Agende sua Consulta"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Instagram"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Lista de serviços"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Blog"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Mais"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Teve problemas com seu seguro residencial ou teve a indenização negada?"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Entenda seus direitos e saiba quais medidas podem ser avaliadas com orientação jurídica clara e segura."
+   },
+   {
+    "tag": "p",
+    "fs": 20,
+    "t": "Entre em contato para iniciar uma Conversa Gratuita no WhatsApp"
+   },
+   {
+    "tag": "span",
+    "fs": 20,
+    "t": "Entre em contato para iniciar uma"
+   },
+   {
+    "tag": "span",
+    "fs": 20,
+    "t": "Conversa Gratuita no WhatsApp"
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Quem Somos?"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "A Mota Naves Advocacia atua com foco em oferecer orientação jurídica clara, estratégica e responsável, sempre respeitando a individualidade de cada caso. Com atendimento personalizado e compromisso com a ética profissional, o escritório busca auxiliar seus clientes na compreensão de seus direitos e na tomada de decisões mais seguras."
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Atuamos em:"
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Negativa de Indenização"
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Análise jurídica em casos de recusa de pagamento pela seguradora."
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Danos por Incêndio ou Curto-Circuito"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Orientação em situações de negativa de cobertura para danos elétricos ou incêndio."
+   },
+   {
+    "tag": "p",
+    "fs": 20,
+    "t": "Danos por Alagamento ou Vazamento"
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Análise de casos envolvendo negativa de cobertura por água, infiltrações ou enchentes."
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Danos por Roubo ou Furto"
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Atuação em casos de recusa de indenização por invasão ou subtração de bens."
+   },
+   {
+    "tag": "p",
+    "fs": 20,
+    "t": "Cobertura Parcial ou Indevida"
+   },
+   {
+    "tag": "p",
+    "fs": 20,
+    "t": "Orientação quando a seguradora paga valor inferior ao esperado ou recusa parte do sinistro."
+   },
+   {
+    "tag": "p",
+    "fs": 28,
+    "t": "Ou se preferir, preencha o formulário abaixo:"
+   },
+   {
+    "tag": "h1",
+    "fs": 28,
+    "t": "Conte-nos o seu caso e entraremos em contato em breve."
+   },
+   {
+    "tag": "span",
+    "fs": 16,
+    "t": "Enviar"
+   },
+   {
+    "tag": "p",
+    "fs": 25,
+    "t": "Larissa Naves Advocacia"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Larissa Naves"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Advocacia"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "(91) 98635-9017"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "adv.larissanaves@gmail.com"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "https://larissanavesadvocacia.blogspot.com"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Privacidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Declaração de acessibilidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Termos e Condições"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Reembolso"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Envio"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "© 2026 by Larissa Naves Advocacia. Todos os direitos reservados."
+   },
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "bottom of page"
+   }
+  ]
+ },
+ "planodesaude.html": {
+  "titulo": "🐴 Plano de Saúde Negou Tratamento? Saiba Seus Direitos",
+  "desc": "Plano de saúde recusou procedimento? Saiba como agir com orientação jurídica especializada e segura. Fale agora.",
+  "blocos": [
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "top of page"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Início"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Inventário"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Divórcio"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Guarda de Filhos"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Planejamento Patrimonial"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Pensão Alimentícia"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Regulamentação de Visitas"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Reconhecimento de União Estável"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Investigação de Paternidade"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Agende sua Consulta"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Instagram"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Lista de serviços"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Blog"
+   },
+   {
+    "tag": "li",
+    "fs": 15,
+    "t": "Mais"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "Teve cirurgia ou tratamento negado pelo plano de saúde em qualquer lugar do Brasil? Entenda seus direitos e receba orientação jurídica segura, com atendimento online."
+   },
+   {
+    "tag": "p",
+    "fs": 20,
+    "t": "Entre em contato para iniciar uma Conversa Gratuita no WhatsApp"
+   },
+   {
+    "tag": "span",
+    "fs": 20,
+    "t": "Entre em contato para iniciar uma"
+   },
+   {
+    "tag": "span",
+    "fs": 20,
+    "t": "Conversa Gratuita no WhatsApp"
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Quem Somos?"
+   },
+   {
+    "tag": "h2",
+    "fs": 25,
+    "t": "Atuamos em:"
+   },
+   {
+    "tag": "p",
+    "fs": 23,
+    "t": "A Mota Naves Advocacia atua com foco em oferecer orientação jurídica clara, estratégica e responsável, sempre respeitando a individualidade de cada caso. Com atendimento personalizado e compromisso com a ética profissional, o escritório busca auxiliar seus clientes na compreensão de seus direitos e na tomada de decisões mais seguras."
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Negativa de Cirurgia BariátricaAnálise jurídica em casos de recusa de cobertura para cirurgia."
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Negativa de Tratamentos MédicosOrientação em situações de recusa de procedimentos pelo plano."
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Recusa de Exames e TerapiasAtuação em casos de negativa de exames essenciais ou tratamentos contínuos."
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Reembolso de Despesas MédicasAvaliação de direitos em pedidos de reembolso junto ao plano de saúde."
+   },
+   {
+    "tag": "p",
+    "fs": 18,
+    "t": "Cancelamento Indevido de PlanoAtuação em casos de cancelamento sem justificativa adequada."
+   },
+   {
+    "tag": "p",
+    "fs": 28,
+    "t": "Ou se preferir, preencha o formulário abaixo:"
+   },
+   {
+    "tag": "h1",
+    "fs": 28,
+    "t": "Conte-nos o seu caso e entraremos em contato em breve."
+   },
+   {
+    "tag": "span",
+    "fs": 16,
+    "t": "Enviar"
+   },
+   {
+    "tag": "p",
+    "fs": 25,
+    "t": "Larissa Naves Advocacia"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Larissa Naves"
+   },
+   {
+    "tag": "span",
+    "fs": 25,
+    "t": "Advocacia"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "(91) 98635-9017"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "adv.larissanaves@gmail.com"
+   },
+   {
+    "tag": "p",
+    "fs": 14,
+    "t": "https://larissanavesadvocacia.blogspot.com"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Privacidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Declaração de acessibilidade"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Termos e Condições"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Reembolso"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "Política de Envio"
+   },
+   {
+    "tag": "p",
+    "fs": 15,
+    "t": "© 2026 by Larissa Naves Advocacia. Todos os direitos reservados."
+   },
+   {
+    "tag": "span",
+    "fs": 10,
+    "t": "bottom of page"
+   }
+  ]
+ }
+}
