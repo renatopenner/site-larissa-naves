@@ -9,7 +9,7 @@
   // Configurações
   const GTM_ID = 'GTM-KCW2QNRC';
   const GOOGLE_ADS_ID = 'AW-17960433898';
-  const GOOGLE_ADS_CONVERSION_LABEL = 'AW-17960433898/ZmpNCJzyoIscEOrxmfRC';
+  const GOOGLE_ADS_CONVERSION_LABEL = 'AW-17960433898/yW0CPHltKgdEOxmFRC';
   const META_PIXEL_ID = '2181928012730955';
 
   // 1. Capturar e persistir UTMs e IDs de cliques (gclid, fbclid)
@@ -77,10 +77,12 @@
     const target = e.target.closest('a[href*="wa.me"], a[href*="whatsapp.com"], #whatsapp-button, .whatsapp-float');
     if (!target) return;
 
-    // Disparar conversão Google Ads
+    // Disparar conversão Google Ads (beacon: sobrevive à navegação para o WhatsApp)
     if (typeof window.gtag === 'function') {
       window.gtag('event', 'conversion', {
         'send_to': GOOGLE_ADS_CONVERSION_LABEL,
+        'transport_type': 'beacon',
+        'event_timeout': 2000,
         'event_callback': function () {}
       });
     }
