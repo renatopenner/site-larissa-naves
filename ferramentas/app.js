@@ -57,6 +57,16 @@
   const initialHash = window.location.hash.replace('#', '');
   if (initialHash) openView(initialHash, false);
 
+  window.addEventListener('hashchange', () => {
+    const h = window.location.hash.replace('#', '');
+    openView(h || 'inicio', false);
+  });
+
+  window.addEventListener('DOMContentLoaded', () => {
+    const h = window.location.hash.replace('#', '');
+    if (h) openView(h, false);
+  });
+
   // =========================================================
   // 1. CALCULADORA DE CUSTO DOS FILHOS E ESTIMATIVA DE PENSÃO
   // =========================================================
