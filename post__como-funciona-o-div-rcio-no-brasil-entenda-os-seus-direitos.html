@@ -1074,4 +1074,55 @@ document.addEventListener('click', function(e) {
 });
 </script>
 
+  <!-- Telemetria Anônima Sem Cookies — PennerServer Monitor -->
+  <script>
+    (function(){
+      var ENDPOINTS = [
+        'https://pennerserver2.tail69feb4.ts.net/monitor/api/web-analytics/hit',
+        'https://baixa.duckdns.org:8095/monitor/api/web-analytics/hit',
+        'https://pennerflix.duckdns.org:8095/monitor/api/web-analytics/hit'
+      ];
+      var utm = '';
+      try {
+        var sp = new URLSearchParams(location.search);
+        utm = sp.get('utm_source') || sp.get('origem') || sp.get('from') || sp.get('ref') || '';
+      } catch (e) {}
+      function sendHit(type, target, label) {
+        var bodyStr = JSON.stringify({
+          site: 'larissanaves',
+          type: type || 'pageview',
+          path: location.pathname || '/',
+          ref: document.referrer || '',
+          utm: utm,
+          target: target || '',
+          label: label || document.title || ''
+        });
+        (async function(){
+          for (var i = 0; i < ENDPOINTS.length; i++) {
+            try {
+              var ctl = new AbortController();
+              var t = setTimeout(function(){ ctl.abort(); }, 2800);
+              var r = await fetch(ENDPOINTS[i], {
+                method: 'POST',
+                headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
+                body: bodyStr,
+                keepalive: true,
+                signal: ctl.signal
+              });
+              clearTimeout(t);
+              if (r && r.ok) return;
+            } catch (e) {}
+          }
+        })();
+      }
+      sendHit('pageview', '', document.title || '');
+      document.addEventListener('click', function(ev) {
+        var a = ev.target && ev.target.closest ? ev.target.closest('a') : null;
+        if (!a || !a.href) return;
+        if (/wa\.me|whatsapp|tel:|agende\.html|intake-form\.html/i.test(a.href)) {
+          sendHit('click', a.href.slice(0, 120), (a.innerText || a.getAttribute('aria-label') || 'Contato').trim().slice(0, 60));
+        }
+      }, true);
+    })();
+  </script>
 </body></html>

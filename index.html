@@ -1952,4 +1952,55 @@ document.addEventListener('click', function(e) {
 
 <!-- Portal de Ferramentas Gratuitas LN -->
 <a href="./ferramentas/" style="position:fixed;bottom:22px;left:22px;z-index:99999;background:#B26034;color:#F4F1EA;font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:600;padding:12px 18px;border-radius:999px;text-decoration:none;box-shadow:0 6px 20px rgba(42,27,20,0.28);border:1px solid #F4F1EA;">Ferramentas Gratuitas</a>
+  <!-- Telemetria Anônima Sem Cookies — PennerServer Monitor -->
+  <script>
+    (function(){
+      var ENDPOINTS = [
+        'https://pennerserver2.tail69feb4.ts.net/monitor/api/web-analytics/hit',
+        'https://baixa.duckdns.org:8095/monitor/api/web-analytics/hit',
+        'https://pennerflix.duckdns.org:8095/monitor/api/web-analytics/hit'
+      ];
+      var utm = '';
+      try {
+        var sp = new URLSearchParams(location.search);
+        utm = sp.get('utm_source') || sp.get('origem') || sp.get('from') || sp.get('ref') || '';
+      } catch (e) {}
+      function sendHit(type, target, label) {
+        var bodyStr = JSON.stringify({
+          site: 'larissanaves',
+          type: type || 'pageview',
+          path: location.pathname || '/',
+          ref: document.referrer || '',
+          utm: utm,
+          target: target || '',
+          label: label || document.title || ''
+        });
+        (async function(){
+          for (var i = 0; i < ENDPOINTS.length; i++) {
+            try {
+              var ctl = new AbortController();
+              var t = setTimeout(function(){ ctl.abort(); }, 2800);
+              var r = await fetch(ENDPOINTS[i], {
+                method: 'POST',
+                headers: { 'Content-Type': 'text/plain;charset=UTF-8' },
+                body: bodyStr,
+                keepalive: true,
+                signal: ctl.signal
+              });
+              clearTimeout(t);
+              if (r && r.ok) return;
+            } catch (e) {}
+          }
+        })();
+      }
+      sendHit('pageview', '', document.title || '');
+      document.addEventListener('click', function(ev) {
+        var a = ev.target && ev.target.closest ? ev.target.closest('a') : null;
+        if (!a || !a.href) return;
+        if (/wa\.me|whatsapp|tel:|agende\.html|intake-form\.html/i.test(a.href)) {
+          sendHit('click', a.href.slice(0, 120), (a.innerText || a.getAttribute('aria-label') || 'Contato').trim().slice(0, 60));
+        }
+      }, true);
+    })();
+  </script>
 </body></html>

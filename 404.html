@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, follow">
+  <title>Redirecionando | Dra. Larissa Naves Advocacia</title>
+  <script>
+    (function(){
+      var p = decodeURIComponent(location.pathname || '/').replace(/\/+$/, '');
+      var map = {
+        '/agende': '/agende.html',
+        '/blog': '/blog.html',
+        '/divorcio': '/divorcio.html',
+        '/divorciopa': '/divorciopa.html',
+        '/guardadefilhos': '/guardadefilhos.html',
+        '/intake-form': '/intake-form.html',
+        '/inventario': '/inventario.html',
+        '/investigacaopaternidade': '/investigacaopaternidade.html',
+        '/pensaoalimenticia': '/pensaoalimenticia.html',
+        '/planejamentopatrimonial': '/planejamentopatrimonial.html',
+        '/reconhecimentouniaoestavel': '/reconhecimentouniaoestavel.html',
+        '/regulamentacaovisitas': '/regulamentacaovisitas.html',
+        '/service-page/acordos': '/service-page__acordos.html',
+        '/service-page/consultoria-individualizada': '/service-page__consultoria-individualizada.html',
+        '/service-page/consultoria-jurídica-para-advogados': '/service-page__consultoria-jur-dica-para-advogados.html',
+        '/service-page/consultoria-juridica-para-advogados': '/service-page__consultoria-jur-dica-para-advogados.html',
+        '/service-page/extrajudicial': '/service-page__extrajudicial.html',
+        '/service-page/planejamento-patrimonial': '/service-page__planejamento-patrimonial.html',
+        '/service-page/processos-litigiosos': '/service-page__processos-litigiosos.html',
+        '/post/como-funciona-o-divórcio-no-brasil-entenda-os-seus-direitos': '/post__como-funciona-o-div-rcio-no-brasil-entenda-os-seus-direitos.html',
+        '/post/como-funciona-o-divorcio-no-brasil-entenda-os-seus-direitos': '/post__como-funciona-o-div-rcio-no-brasil-entenda-os-seus-direitos.html'
+      };
+      var target = map[p.toLowerCase()];
+      if (!target && p && !/\.html$/i.test(p)) {
+        target = p + '.html';
+      }
+      if (target) {
+        location.replace(target + location.search + location.hash);
+      } else {
+        location.replace('/');
+      }
+    })();
+  </script>
+</head>
+<body>
+  <p>Redirecionando para <a href="/">Larissa Naves Advocacia</a>...</p>
+</body>
+</html>
