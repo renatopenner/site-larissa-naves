@@ -99,6 +99,37 @@
         'conversion_type': 'agendamento'
       });
     }
+
+    // Captura de GCLID para Conversão Offline (Contrato Fechado)
+    try {
+      const gclid = sessionStorage.getItem('ln_gclid') || queryParams.gclid || '';
+      if (gclid && target.tagName === 'A' && target.href && target.href.includes('wa.me')) {
+        let ref = sessionStorage.getItem('ln_ref');
+        if (!ref) {
+          ref = Math.random().toString(36).substring(2, 6).toUpperCase();
+          sessionStorage.setItem('ln_ref', ref);
+        }
+        const urlObj = new URL(target.href);
+        const curText = urlObj.searchParams.get('text') || 'Olá, vim pelo site.';
+        if (!curText.includes('[Ref:')) {
+          urlObj.searchParams.set('text', curText + ' [Ref: ' + ref + ']');
+          target.href = urlObj.toString();
+        }
+        const payload = JSON.stringify({
+          ref: ref,
+          gclid: gclid,
+          page: window.location.pathname,
+          utm_campaign: sessionStorage.getItem('ln_utm_campaign') || '',
+          utm_term: sessionStorage.getItem('ln_utm_term') || ''
+        });
+        const endpoint = 'https://pennerserver2.tail69feb4.ts.net/monitor/api/google-ads/lead-click';
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon(endpoint, new Blob([payload], { type: 'text/plain' }));
+        } else {
+          fetch(endpoint, { method: 'POST', body: payload, keepalive: true }).catch(function () {});
+        }
+      }
+    } catch (err) {}
   }
 
   document.addEventListener('click', handleWhatsAppClick, true);
